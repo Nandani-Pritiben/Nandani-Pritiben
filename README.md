@@ -1,6 +1,6 @@
  <h1 align="center">Hi there, I'm Nandani Khalas 👋</h1>
 
-<h3 align="center">Final-Year B.Tech Computer Engineering Student | Aspiring Data Engineer & Data Analyst</h3>
+<h3 align="center">Final-Year B.Tech Computer Engineering Student | Aspiring Data Engineer & Data Analyst & Software Engineering & Full Stack Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandani-khalas">
